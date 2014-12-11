@@ -1,0 +1,16 @@
+{
+  "name": "nojira",
+  "version": "0.0.1",
+  "description": "Simple CLI app for improving jira/stash workflow",
+  "main": "nojira.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Bujok <chris.bujok@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "better-console": "^0.2.3",
+    "commander": "^2.5.0",
+    "jira": "^0.9.2"
+  }
+}
